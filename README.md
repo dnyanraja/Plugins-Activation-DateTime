@@ -2,7 +2,7 @@
 This plugin add the date and time to each plugin when it has been last updated or activated.
 
 Using the plugin,
-Just install the plugin from wp dahsboard-> plugins -> add new
+Just install the plugin from wp dahsboard-> plugins -> Add New. 
 Thats it!
 
 You can see last updated or activated date of each plugin on plugins page.
