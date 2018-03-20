@@ -1,6 +1,6 @@
 <?php 
 /*
- * Plugin Name: Plugins Activation DateTime
+ * Plugin Name: Plugins Update DateTime
  * Plugin URI: http://webandseoguide.tk
  * Description: This plugin add the date and time when it was last updated or activated
  * Version: 1.0.0
